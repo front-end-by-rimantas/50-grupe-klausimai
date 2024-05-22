@@ -1,5 +1,16 @@
 # Klausimai
 
+## Kaip galima stringa panaudoti objekto parametro iskvietimui:
+   PVZ:
+   function test(a, b) {
+    const d = a;
+    const e = b;
+    const f = { a: 'Jonas', b: 'Petras', c: 'Antanas' };
+    const g = { a: 'Jonaitis', b: 'Petraitis', c: 'Antanaitis' };
+    return f.d, g.e;
+}
+console.log(test('a', 'b'));
+
 ## Gal galite pateikti masyvo su skaičiais vaizdavimo atgaline tvarka pavyzdį.
 
 ## Sprendžiant uždavinį, radau tokį sprendimo būdą. Gal galite paaiškinti, kokia daugtaškio esmė prieš [...arr,1]?
