@@ -1,7 +1,8 @@
 # Klausimai
 
 ## Kaip ištraukti operacijos simbolį iš stringo? 
-Ir kaip teisingiau išspręsti, ar mintis sprendimo teisinga? Su daugyba ir dalyba nepavyks, kaip suprantu, jei viskas sumuosis.  Tai reikėtų kažkaip į stringą viską sumesti, o paskui ištraukti? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/2da0d285-79ee-40fb-92b7-2eb5be577d53)
+Ir kaip teisingiau išspręsti, ar mintis sprendimo teisinga?  Kaip ištraukti stringą, kad gauti atsakymą? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/cffd4790-47bb-48be-a62e-ecb2c343d80d)
+
 
 
 ## Kokie array metodai yra vertingiausi įsiminti ir naudoti?
