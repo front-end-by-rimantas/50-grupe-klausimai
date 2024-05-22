@@ -1,5 +1,7 @@
 # Klausimai
 
+## Ar objekto viduje būna rašomos funkcijos? Jei taip, kokiais atvejais? 
+
 ## Ar galime ternary panaudoti cikle?
 
 ## Ar teisingai išsprendžiau uždavinį dėl atsitiktinio skaičiaus intervale nuo 23 iki 617 imtinai?
