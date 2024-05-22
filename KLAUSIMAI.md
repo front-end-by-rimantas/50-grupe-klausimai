@@ -1,5 +1,7 @@
 # Klausimai
 
+## Ar galime ternary panaudoti cikle?
+
 ## Ar teisingai išsprendžiau uždavinį dėl atsitiktinio skaičiaus intervale nuo 23 iki 617 imtinai?
 for (let i = 0; i < 594; i++) {
     console.log(Math.floor(Math.random() * 594) + 1);
