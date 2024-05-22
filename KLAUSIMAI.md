@@ -1,5 +1,7 @@
 # Klausimai
 
+## Gal galite pateikti masyvo su skaičiais vaizdavimo atgaline tvarka pavyzdį.
+
 ## Sprendžiant uždavinį, radau tokį sprendimo būdą. Gal galite paaiškinti, kokia daugtaškio esmė prieš [...arr,1]?
 const pushElement = arr => [...arr, 1];
 console.log(pushElement([1,2,3]).length,4);
