@@ -46,3 +46,7 @@ for (let i = 0; i < 594; i++) {
 
 ## Kas blogai? 
 ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167983987/d10f3714-bc65-44b4-800a-fc4410075cdc)
+
+## Ar galima išspręsti naudojant math.random ?
+![ScreenHunter 02](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984065/33450877-cc7b-4219-8394-299b6a338c09)
+
