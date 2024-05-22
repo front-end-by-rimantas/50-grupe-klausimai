@@ -5,7 +5,8 @@ const pushElement = arr => [...arr, 1];
 console.log(pushElement([1,2,3]).length,4);
 
 ## Kaip ištraukti operacijos simbolį iš stringo? 
-Ir kaip teisingiau išspręsti, ar mintis sprendimo teisinga?  Kaip ištraukti stringą, kad gauti atsakymą? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/cffd4790-47bb-48be-a62e-ecb2c343d80d)
+Ir kaip teisingiau išspręsti, ar mintis sprendimo teisinga?  Kaip ištraukti stringą, kad gauti atsakymą? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/aa5eb55f-1c35-476f-8bd8-a9d382e16635)
+
 
 
 
