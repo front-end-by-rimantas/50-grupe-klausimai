@@ -1,5 +1,9 @@
 # Klausimai
 
+## Sprendžiant uždavinį, radau tokį sprendimo būdą. Gal galite paaiškinti, kokia daugtaškio esmė prieš [...arr,1]?
+const pushElement = arr => [...arr, 1];
+console.log(pushElement([1,2,3]).length,4);
+
 ## Kaip ištraukti operacijos simbolį iš stringo? 
 Ir kaip teisingiau išspręsti, ar mintis sprendimo teisinga?  Kaip ištraukti stringą, kad gauti atsakymą? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/cffd4790-47bb-48be-a62e-ecb2c343d80d)
 
