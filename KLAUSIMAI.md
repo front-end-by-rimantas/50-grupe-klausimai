@@ -1,4 +1,5 @@
 ## Klausimai
+## Kodėl nepaima zodzio, o ima pirmojo raides? kaip teisingai reikėtų padaryti, kad imtų žodžius? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/44921421-e258-4f32-9459-9f3f1f53986b)
 
 ## Kodėl nepraeina kitų testų? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/db48a943-af1d-4d6b-aa79-65a406a5f691)
 ;![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/c45aff5f-2d8e-4788-9b37-8055be3d1ecf)
