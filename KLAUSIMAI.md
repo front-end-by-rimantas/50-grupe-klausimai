@@ -1,4 +1,4 @@
-# Klausimai
+## Klausimai
 
 ## Kodėl nepraeina kitų testų? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/db48a943-af1d-4d6b-aa79-65a406a5f691)
 ;![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/c45aff5f-2d8e-4788-9b37-8055be3d1ecf)
@@ -50,3 +50,4 @@ for (let i = 0; i < 594; i++) {
 ## Ar galima išspręsti naudojant math.random ?
 ![ScreenHunter 02](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984065/33450877-cc7b-4219-8394-299b6a338c09)
 
+## Ar Onutė yra Jono žmona?
