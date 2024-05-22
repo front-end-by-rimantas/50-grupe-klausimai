@@ -1,5 +1,7 @@
 # Klausimai
 
+## Kaip pateikti atsakymą, kad nebūtų ''? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/035b84a0-4c0f-4919-add8-dab9206632f3) ; ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/47d6694a-3d3b-4070-af2d-38d75b58bac7)
+
 ## Ar objekto viduje būna rašomos funkcijos? Jei taip, kokiais atvejais? 
 
 ## Ar galime ternary panaudoti cikle?
