@@ -1,4 +1,14 @@
 ## Klausimai
+
+## Koks turėtų būti teisingas antradienio namų darbo sprendimas? (ND: Man reikia atsitiktinio skaiciaus intervale nuo 23 iki 617 imtinai.) Ar toks sprendimas yra teisingas? Kodėl?
+
+```
+function randomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+console.log(randomNumber(23, 617));  
+```
+
 ## Kodėl nepaima zodzio, o ima pirmojo raides? kaip teisingai reikėtų padaryti, kad imtų žodžius? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/44921421-e258-4f32-9459-9f3f1f53986b)
 
 ## Kodėl nepraeina kitų testų? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/db48a943-af1d-4d6b-aa79-65a406a5f691)
