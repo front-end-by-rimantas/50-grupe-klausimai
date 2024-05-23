@@ -1,4 +1,7 @@
 ## Klausimai
+
+## Kokiu principu veikia duomenų kopijavimas/spreadinimas iš daugialygio objekto?
+
 ## Nepavyksta isspresti uzdavinio iki galo. Ar galite parodyti kur klystu
 ```js
 function dnaStrand(dna){
