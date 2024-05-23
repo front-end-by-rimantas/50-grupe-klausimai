@@ -1,5 +1,7 @@
 ## Klausimai
 
+## Mes naudojame console.log() ir console.clear(). Gal yra dar kokių, kurios būtų naudingos mums?
+
 ## Kokiu principu veikia duomenų kopijavimas/spreadinimas iš daugialygio objekto?
 
 ## Nepavyksta isspresti uzdavinio iki galo. Ar galite parodyti kur klystu
