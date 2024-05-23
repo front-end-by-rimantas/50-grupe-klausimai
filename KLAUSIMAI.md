@@ -1,5 +1,15 @@
 ## Klausimai
-
+## Nepavyksta isspresti uzdavinio iki galo. Ar galite parodyti kur klystu
+```js
+function dnaStrand(dna){
+  return dna.replace('A', 'T').replace('A', 'T').replace('A', 'T').replace('A', 'T').
+             replace('C', 'G').replace('G','C'); 
+              
+}             
+console.log(dnaStrand("AAAA"), 'TTTT');
+console.log(dnaStrand("ATTGC"),'TAACG');
+console.log(dnaStrand("GTAT"), 'CATA');
+```
 ## Ar galite papasakoti apie masyvo rūšiavimo metodą "sort()", pateikiant praktinių pavyzdžių? Ačiū
 
 ## Gal galite paaiskinti ka atlieka ir kaip veeikia Float64Array? 
