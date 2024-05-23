@@ -1,5 +1,7 @@
 ## Klausimai
 
+## Gal galite paaiskinti ka atlieka ir kaip veeikia Float64Array? 
+
 ## Koks turėtų būti teisingas antradienio namų darbo sprendimas? (ND: Man reikia atsitiktinio skaiciaus intervale nuo 23 iki 617 imtinai.) Ar toks sprendimas yra teisingas? Kodėl?
 
 ```
