@@ -1,5 +1,9 @@
 ## Klausimai
 
+## Pavyko ispresti uzdavini, bet neaiskus for...of veikimo principas. Ar galite paaiskinti? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984240/de282fe8-ad51-4166-86e6-522ec8994913)
+
+
+
 ## Mes naudojame console.log() ir console.clear(). Gal yra dar kokių, kurios būtų naudingos mums?
 
 ## Kokiu principu veikia duomenų kopijavimas/spreadinimas iš daugialygio objekto?
