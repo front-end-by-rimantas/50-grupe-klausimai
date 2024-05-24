@@ -1,5 +1,16 @@
 ## Klausimai
 
+## Radau man nematytą for užrašymo būdą tarp uždavinio (https://www.codewars.com/kata/515e271a311df0350d00000f/javascript) sprendimų. Iš kur jis toks čia atsiranda, ar galėtumėte paaiškinti?
+```
+function squareSum(numbers){
+  let sum = 0;
+  for (const num of numbers) {
+    sum += num ** 2;
+  }
+  return sum;
+}
+```
+
 ## Pavyko isspresti uzdavini, bet neaiskus for...of veikimo principas. Ar galite paaiskinti? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984240/de282fe8-ad51-4166-86e6-522ec8994913)
 
 
