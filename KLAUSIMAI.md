@@ -12,7 +12,7 @@ function fakeBin(x) {
 ```
 
 ## Radau man nematytą for užrašymo būdą tarp uždavinio (https://www.codewars.com/kata/515e271a311df0350d00000f/javascript) sprendimų. Iš kur jis toks čia atsiranda, ar galėtumėte paaiškinti?
-```
+```js
 function squareSum(numbers){
   let sum = 0;
   for (const num of numbers) {
@@ -47,7 +47,7 @@ console.log(dnaStrand("GTAT"), 'CATA');
 
 ## Koks turėtų būti teisingas antradienio namų darbo sprendimas? (ND: Man reikia atsitiktinio skaiciaus intervale nuo 23 iki 617 imtinai.) Ar toks sprendimas yra teisingas? Kodėl?
 
-```
+```js
 function randomNumber(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
