@@ -1,6 +1,6 @@
 ## Klausimai
 
-## Gal galite paaiškinti array.reduce metodo veikimą ir panaudojimą? (https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript) Radau tokį sprendimą:
+## Gal galite paaiškinti array.reduce() metodo veikimą ir panaudojimą? (https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript) Radau tokį sprendimą:
 ```js
 function betterThanAverage(c, y) {
 return (c.reduce((t, p)=>t+p, 0) + y) / (c.length + 1) < y
