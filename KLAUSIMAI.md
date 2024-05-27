@@ -1,5 +1,12 @@
 ## Klausimai
 
+## Ar galima po tam tikro metodo pritaikymo skliausteliuose rašyti sudėtingesnes funkcijas negu ternary? Kaip pavyzdys vieno uždavinio optimalus sprendimas:
+```js
+function fakeBin(x) {
+    return x.split('').map(n => n < 5 ? 0 : 1).join('');
+}
+```
+
 ## Radau man nematytą for užrašymo būdą tarp uždavinio (https://www.codewars.com/kata/515e271a311df0350d00000f/javascript) sprendimų. Iš kur jis toks čia atsiranda, ar galėtumėte paaiškinti?
 ```
 function squareSum(numbers){
