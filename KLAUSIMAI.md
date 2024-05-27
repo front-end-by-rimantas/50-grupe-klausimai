@@ -1,5 +1,7 @@
 ## Klausimai
 
+## Gal yra papildomų mokymosi šaltinių uždaviniams spręsti be Codewars?
+
 ## Kodėl nepaima vieneto tam tikrose situacijose, tai yra ne visur skaičiuoja? 
 ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/d5af647f-873e-48ca-90fc-09548091ee7c)
 
