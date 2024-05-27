@@ -1,5 +1,9 @@
 ## Klausimai
 
+## Kodėl neima visų žodžių, o tik pirmą? Kaip padaryti, kad paimtų visus žodžius?
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/4f60768b-45c4-40b3-a7dd-e16da44eb8e9)
+
+
 ## Ar galima po tam tikro metodo pritaikymo skliausteliuose rašyti sudėtingesnes funkcijas negu ternary? Kaip pavyzdys vieno uždavinio optimalus sprendimas:
 ```js
 function fakeBin(x) {
