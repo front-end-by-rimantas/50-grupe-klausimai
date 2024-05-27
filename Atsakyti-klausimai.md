@@ -1,5 +1,103 @@
 # Atsakyti klausimai
 
+## Sprendžiant uždavinį, radau tokį sprendimo būdą. Gal galite paaiškinti, kokia daugtaškio esmė prieš [...arr,1]?
+
+```js
+const pushElement = (arr) => [...arr, 1];
+console.log(pushElement([1, 2, 3]).length, 4);
+```
+
+## Kokie array metodai yra vertingiausi įsiminti ir naudoti?
+
+## Kodėl nepaima zodzio, o ima pirmojo raides? kaip teisingai reikėtų padaryti, kad imtų žodžius? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/44921421-e258-4f32-9459-9f3f1f53986b)
+
+## Koks turėtų būti teisingas antradienio namų darbo sprendimas? (ND: Man reikia atsitiktinio skaiciaus intervale nuo 23 iki 617 imtinai.) Ar toks sprendimas yra teisingas? Kodėl?
+
+```js
+function randomNumber(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+console.log(randomNumber(23, 617));
+```
+
+## Gal galite paaiskinti ka atlieka ir kaip veeikia Float64Array?
+
+## Ar galite papasakoti apie masyvo rūšiavimo metodą "sort()", pateikiant praktinių pavyzdžių? Ačiū
+
+## Nepavyksta isspresti uzdavinio iki galo. Ar galite parodyti kur klystu
+
+```js
+function dnaStrand(dna) {
+    return dna
+        .replace('A', 'T')
+        .replace('A', 'T')
+        .replace('A', 'T')
+        .replace('A', 'T')
+        .replace('C', 'G')
+        .replace('G', 'C');
+}
+console.log(dnaStrand('AAAA'), 'TTTT');
+console.log(dnaStrand('ATTGC'), 'TAACG');
+console.log(dnaStrand('GTAT'), 'CATA');
+```
+
+## Kokiu principu veikia duomenų kopijavimas/spreadinimas iš daugialygio objekto?
+
+## Mes naudojame console.log() ir console.clear(). Gal yra dar kokių, kurios būtų naudingos mums?
+
+## Pavyko isspresti uzdavini, bet neaiskus for...of veikimo principas. Ar galite paaiskinti? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984240/de282fe8-ad51-4166-86e6-522ec8994913)
+
+## Radau man nematytą for užrašymo būdą tarp uždavinio (https://www.codewars.com/kata/515e271a311df0350d00000f/javascript) sprendimų. Iš kur jis toks čia atsiranda, ar galėtumėte paaiškinti?
+
+```js
+function squareSum(numbers) {
+    let sum = 0;
+    for (const num of numbers) {
+        sum += num ** 2;
+    }
+    return sum;
+}
+```
+
+## Ar galima po tam tikro metodo pritaikymo skliausteliuose rašyti sudėtingesnes funkcijas negu ternary? Kaip pavyzdys vieno uždavinio optimalus sprendimas:
+
+```js
+function fakeBin(x) {
+    return x
+        .split('')
+        .map((n) => (n < 5 ? 0 : 1))
+        .join('');
+}
+```
+
+## Kodėl neima visų žodžių, o tik pirmą? Kaip padaryti, kad paimtų visus žodžius?
+
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/4f60768b-45c4-40b3-a7dd-e16da44eb8e9)
+
+## Kodėl NaN nėra lygus NaN, kaip padaryti, kad būtų?
+
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/7ea4e4ad-1b58-4fa3-94ac-4b2ad70967f3)
+
+## Kodėl nepaima į'pushintų' skaičių?
+
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/9f887252-b06a-430f-a02b-f1312be39e5b)
+
+## Kodėl nepaima vieneto tam tikrose situacijose, tai yra ne visur skaičiuoja?
+
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/d5af647f-873e-48ca-90fc-09548091ee7c)
+
+## Gal yra papildomų mokymosi šaltinių uždaviniams spręsti be Codewars?
+
+## Kas blogai?
+
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167983987/d10f3714-bc65-44b4-800a-fc4410075cdc)
+
+## Ar galima išspręsti naudojant math.random ?
+
+![ScreenHunter 02](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984065/33450877-cc7b-4219-8394-299b6a338c09)
+
+## Ar Onutė yra Jono žmona?
+
 ## Kodėl nepraeina kitų testų? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/db48a943-af1d-4d6b-aa79-65a406a5f691);![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/c45aff5f-2d8e-4788-9b37-8055be3d1ecf)
 
 ## Kaip galima stringa panaudoti objekto parametro iskvietimui:
