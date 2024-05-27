@@ -1,5 +1,14 @@
 ## Klausimai
 
+## Kodėl nepaima į'pushintų' skaičių? 
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/9f887252-b06a-430f-a02b-f1312be39e5b)
+
+
+## Kodėl NaN nėra lygus NaN, kaip padaryti, kad būtų? 
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/7ea4e4ad-1b58-4fa3-94ac-4b2ad70967f3)
+
+
+
 ## Kodėl neima visų žodžių, o tik pirmą? Kaip padaryti, kad paimtų visus žodžius?
 ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/4f60768b-45c4-40b3-a7dd-e16da44eb8e9)
 
