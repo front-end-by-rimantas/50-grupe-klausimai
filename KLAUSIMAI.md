@@ -1,5 +1,15 @@
 ## Klausimai
 
+## Ar galėtumėte trumpai paaiškinti reduce metodo parametrų skliausteliuose esančią logiką? Uždavinyje reikėjo išvalyti iš stringo skaičius nuo 0 iki 9.
+'''js
+function stringClean(s){
+    const noDigits = s.replace(/[0-9]/g, '');
+    return noDigits;
+
+}
+console.log(stringClean('This looks5 grea8t!'));
+```
+
 ## Gal galite paaiškinti array.reduce() metodo veikimą ir panaudojimą? (https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript) Radau tokį sprendimą:
 ```js
 function betterThanAverage(c, y) {
