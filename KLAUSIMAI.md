@@ -1,6 +1,6 @@
 ## Klausimai
 
-## Ar galėtumėte trumpai paaiškinti reduce metodo parametrų skliausteliuose esančią logiką? Uždavinyje reikėjo išvalyti iš stringo skaičius nuo 0 iki 9.
+## Ar galėtumėte trumpai paaiškinti replace metodo parametrų skliausteliuose esančią logiką? Uždavinyje reikėjo išvalyti iš stringo skaičius nuo 0 iki 9.
 ```js
 function stringClean(s){
     const noDigits = s.replace(/[0-9]/g, '');
