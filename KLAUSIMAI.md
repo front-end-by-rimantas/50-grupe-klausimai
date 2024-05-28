@@ -1,5 +1,7 @@
 ## Klausimai
 
+## Ar galima naudojant for-of arba switch perrašyti tekstą iš galo, t.y. iš dešinės į kairę? Jei atsakymas taip, gal galite 1 pvz išspręsti. Ačiū.
+
 ## Ar galėtumėte trumpai paaiškinti replace metodo parametrų skliausteliuose esančią logiką? Uždavinyje reikėjo išvalyti iš stringo skaičius nuo 0 iki 9.
 ```js
 function stringClean(s){
