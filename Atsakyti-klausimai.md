@@ -1,5 +1,29 @@
 # Atsakyti klausimai
 
+## Kodėl else negražina 0? jei nustatėme, kad skaičiuoja, jei yra ilgis daugiau už 1, o jei ilgis lygus 0, turi grįžti 0? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/2ad94b7c-538c-48f7-855b-509c0c944578) https://www.codewars.com/kata/57a2013acf1fa5bfc4000921/train/javascript
+
+## Kodėl meta tą lentelę, kad negali priimti atsakymo? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/ff7a20df-55f9-415e-8732-2cad4f4c72a3)
+
+## Gal galite paaiškinti array.reduce() metodo veikimą ir panaudojimą? (https://www.codewars.com/kata/5601409514fc93442500010b/train/javascript) Radau tokį sprendimą:
+
+```js
+function betterThanAverage(c, y) {
+    return (c.reduce((t, p) => t + p, 0) + y) / (c.length + 1) < y;
+}
+```
+
+## Ar galėtumėte trumpai paaiškinti replace metodo parametrų skliausteliuose esančią logiką? Uždavinyje reikėjo išvalyti iš stringo skaičius nuo 0 iki 9.
+
+```js
+function stringClean(s) {
+    const noDigits = s.replace(/[0-9]/g, '');
+    return noDigits;
+}
+console.log(stringClean('This looks5 grea8t!'));
+```
+
+## Ar galima naudojant for-of arba switch perrašyti tekstą iš galo, t.y. iš dešinės į kairę? Jei atsakymas taip, gal galite 1 pvz išspręsti. Ačiū.
+
 ## Sprendžiant uždavinį, radau tokį sprendimo būdą. Gal galite paaiškinti, kokia daugtaškio esmė prieš [...arr,1]?
 
 ```js
