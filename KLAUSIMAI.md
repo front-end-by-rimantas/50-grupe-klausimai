@@ -1,4 +1,6 @@
-## Klausimai
+## Kokį įrankį naudoti, norint kad funkcija atpažintų kintamuosius su skirtingų dydžių raidėmis? 
+![Screenshot (7)](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984972/9cb70b89-d811-442f-b496-ccca3f644196)
+
 
 ## Kokią funkciją šiuose to paties uždavinio sprendimuose atlieka ~~ ir >> ? (https://www.codewars.com/kata/582cb0224e56e068d800003c/train/javascript)
 ```js
