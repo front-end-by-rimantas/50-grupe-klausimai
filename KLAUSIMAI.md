@@ -1,3 +1,9 @@
+## Norėčiau sužinoti, kaip sulygiuoti, kad procentaliai tiek labirintas tiek žodžiai atitinkamai vienas nuo kito? 
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/f7e5f090-ab1a-4e0d-86ad-d6f30e09592c)
+![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/f5614512-9bfc-4031-819a-166a94e2503f)
+
+
+
 ## Prašau paaiškinti, kaip nori pateikto atsakymo, nes pačią funkciją užrašau, bet sprendimas yra netinkamas, nes patį sprendimą modifikavau, suvokimo neturiu, kaip nori pateikto atsakymo (prisegu tris nuotraukas, kad būtų aiškiau, apie ką kalbu):
 ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/6f48c0bd-5dcc-4f0d-b9c6-7e2954b4c872)
 ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/6128240b-552c-4b30-bbd8-0afa115166a8)
