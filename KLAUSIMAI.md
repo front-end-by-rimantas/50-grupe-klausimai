@@ -1,3 +1,11 @@
+## Kodėl funkcijoje naudojant ternary ir returninant iš karto atsakymą nereikia po return rašyti const arba let?
+```js
+ function hoopCount(n) {
+   return ans = n >= 10 ? "Great, now move on to tricks" : "Keep at it until you get it";
+ }
+ console.log(hoopCount(11));
+```
+
 ## Bandžiau uždavinį spręsti keliais būdais, ar įsiveliu klaidas, ar kažko nesuprantu kaip pritaikyti? Kur suklydau? nuoroda:  https://www.codewars.com/kata/51c8991dee245d7ddf00000e/train/javascript
 ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167992892/e807fdf5-1d76-4089-9802-ba9da92dfcf3)
 
