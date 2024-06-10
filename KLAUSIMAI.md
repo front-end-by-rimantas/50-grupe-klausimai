@@ -17,7 +17,6 @@ function validateHello(greetings) {
     let result = text.match(pattern);
 
     if (result = text.match(pattern)) {
-console.log(text.match(pattern))
       return true
     } else { return false}
 }
