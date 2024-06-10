@@ -1,2 +1,2 @@
-## Sukurus branch'us Github'e, VScode jie neatsiranda. Galiu kurti tik pačiame VScode. Kodėl? Sukurus VScode atsiranda kaip "dublikatai"![Screenshot 2024-06-10 151235](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167987399/a6c8bf90-0ccf-42c0-99cd-a410984ac5e1)
+## 1. Sukurus branch'us Github'e, VScode jie neatsiranda. Galiu kurti tik pačiame VScode. Kodėl? Sukurus VScode atsiranda kaip "dublikatai"![Screenshot 2024-06-10 151235](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167987399/a6c8bf90-0ccf-42c0-99cd-a410984ac5e1)
 
