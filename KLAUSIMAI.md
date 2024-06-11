@@ -1,3 +1,6 @@
+## 3 .
+
+
 ## 2. Ar esant pašalintai iš jūsų Discord grupės yra galimybė sugrįžti ir kaip? 
 
 
