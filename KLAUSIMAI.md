@@ -1,3 +1,5 @@
+## 4. Jei elemento selektoriuje nėra border, ar withd vis tiek apima turinio plotį?
+
 ## 3. Ar kai kursime puslapių dizaino adaptacijas mobiliems įrenginiams pagrinde žiūrėsime į mobilių įrenginių ekranų pločius ir aukščius pikseliais?
 
 
