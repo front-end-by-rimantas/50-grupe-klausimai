@@ -1,4 +1,4 @@
-## 3 .
+## 3. Ar kai kursime puslapių dizaino adaptacijas mobiliems įrenginiams pagrinde žiūrėsime į mobilių įrenginių ekranų pločius ir aukščius pikseliais?
 
 
 ## 2. Ar esant pašalintai iš jūsų Discord grupės yra galimybė sugrįžti ir kaip? 
