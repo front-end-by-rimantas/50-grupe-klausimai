@@ -1,5 +1,17 @@
 # Atsakyti klausimai
 
+# kas tai per metodas padStart
+
+https://www.codewars.com/kata/57238ceaef9008adc7000603/solutions/javascript
+
+```
+function colorOf(r,g,b){
+	return `#${[r,g,b].map(el=>el.toString(16).padStart(2,'0')).join('')}`
+}
+```
+
+# Ką daryti, kai VScode išsitrini ne branch'ą, o main/master? 😂
+
 ## Kaip veikia toks sprendimo budas?
 
 https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa/train/javascript
