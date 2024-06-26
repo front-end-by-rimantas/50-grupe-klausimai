@@ -1,5 +1,16 @@
 # Atsakyti klausimai
 
+# Kur klaida parašytame kode? Kodėl dalis atsakymų neteisingi?
+
+https://www.codewars.com/kata/57241e0f440cd279b5000829/train/javascript
+
+![Screenshot (9)](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984972/0542ab21-d6b0-4cc1-88e3-aa625e0edf9d)
+
+sumMul(3, 13) ==> 3 + 6 + 9 + 12 = 30
+sumMul(3, 12) ==> 3 + 6 + 9 = 18
+
+# Ar yra VSC programoje toks dalykas kaip paieska? tarkim kad galetum surasti kur parasytas zodis "pomidoras"?
+
 # kas tai per metodas padStart
 
 https://www.codewars.com/kata/57238ceaef9008adc7000603/solutions/javascript
