@@ -1,1 +1,1 @@
-
+# Jei darbdavys per pokalbį duotu išspręsti https://www.codewars.com/kata/520446778469526ec0000001/train/javascript ar iš karto priimtu į darbą pateikus tokį sprendimą? ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167983974/6b49c1db-1083-45b8-bb36-df93a8e9621c) 😂
