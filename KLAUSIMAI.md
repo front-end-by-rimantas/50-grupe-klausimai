@@ -1,3 +1,9 @@
+# Kodel vyksta tokia magija jog atsidarius viena puslapi nematau turinio o atsidarius antra jis atsivaizduoja normaliai?
+
+https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167983945/dc8a88ea-0076-4bb4-9ebf-d75a24473c74
+
+
+
 # Kodel paspaudus  a href="#">HTML tagga nors ir norodžiau # mane meta i puslapio viršu ?
 
 # Kodel bunant vienodams ekrano didziams turinys atsivaizduoja skirtingai ?
