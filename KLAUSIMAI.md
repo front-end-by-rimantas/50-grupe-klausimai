@@ -1,5 +1,9 @@
 # Kodel vyksta tokia magija jog atsidarius viena puslapi nematau turinio o atsidarius antra jis atsivaizduoja normaliai?
-Uploading Screen Recording 2024-06-28 at 18.21.12.mov…
+
+
+https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167983945/c8facb44-1f61-4329-a4e3-57b71ff2cec5
+
+
 
 # Kodel paspaudus  a href="#">HTML tagga nors ir norodžiau # mane meta i puslapio viršu ?
 
