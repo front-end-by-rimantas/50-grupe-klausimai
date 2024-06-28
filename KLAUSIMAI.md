@@ -1,4 +1,4 @@
-# Kodel paspaudus  /<a href="#">HTML tagga nors ir norodžiau # mane meta i puslapio viršu ?
+# Kodel paspaudus  a href="#">HTML tagga nors ir norodžiau # mane meta i puslapio viršu ?
 
 # Kodel bunant vienodams ekrano didziams turinys atsivaizduoja skirtingai ?
 
