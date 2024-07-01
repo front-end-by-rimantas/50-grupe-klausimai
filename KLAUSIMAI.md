@@ -1,3 +1,7 @@
+# Gal galit parodyti kaip reiketu dirbant komandoje, Github'e sukurti is jau esancio main commit'o brancha komandos nariui kad galima butu dirbti lokaliai savo PC ir paskui butu galima sumerginti pakeitimus. (klausima galima bus patikslinti paskaitos metu)
+
+# Gal galit pateikti pavyzdziu arba uzvesti ant kelio norint sukaiciavus rezultata JS grazinti jy 18 skaitmenu tikslumu po kablelio neprarandant tikslumo?
+
 # Kokie yra pagrindiniai esminiai momentai renkantis tarp flex'o ir grid'o?
 
 # Kodel vyksta tokia magija jog atsidarius viena puslapi nematau turinio o atsidarius antra jis atsivaizduoja normaliai?
