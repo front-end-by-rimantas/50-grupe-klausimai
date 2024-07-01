@@ -1,3 +1,5 @@
+# Kokie yra pagrindiniai esminiai momentai renkantis tarp flex'o ir grid'o?
+
 # Kodel vyksta tokia magija jog atsidarius viena puslapi nematau turinio o atsidarius antra jis atsivaizduoja normaliai?
 
 
