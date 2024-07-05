@@ -1,3 +1,6 @@
+ # Klausimas, kodėl neveikia hover mygtukui, kai kodas yra, kitur veikia, o vienas mygtukas " pakibo" buvo ir kitų, bet kažkaip atkibo, kas gali būti kaltas? ar stilių savybės kokios ar dar kas? Ar ta tarpinė tarp ekrano ir klaviaturos? :D
+ https://balticinstitute.sharepoint.com/sites/240424PROGNFONLINETEST2/Bendrai%20naudojami%20dokumentai/Praktiniai%20u%C5%BEsi%C4%97mimai/Recordings/Workshop%20(Kambariai)-20240705_142807-Meeting%20Recording.mp4?web=1&referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view
+
 # Jeigu kuriama svetainė beveik neturės besikeičiančio turinio, ar teisingas pasirinkimas būtų viską surašyti į html failą ar visgi naudoti Dom'ą?
 
 # Po sucommitinimo mano puslapis neatsivaizduoja ir meta i 404 puslapi , atsidarius per vscode viska matau gerai bet einant per github ,pradinis puslapis atsidaro bet paspaudus ant Contats arba Pokemon meta i 404 puslapi. Ka padariau netaip? Gal padesit sutaisyti?
