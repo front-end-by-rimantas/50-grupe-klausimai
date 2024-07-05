@@ -1,3 +1,5 @@
+# Jeigu kuriama svetainė beveik neturės besikeičiančio turinio, ar teisingas pasirinkimas būtų viską surašyti į html failą ar visgi naudoti Dom'ą?
+
 # Po sucommitinimo mano puslapis neatsivaizduoja ir meta i 404 puslapi , atsidarius per vscode viska matau gerai bet einant per github ,pradinis puslapis atsidaro bet paspaudus ant Contats arba Pokemon meta i 404 puslapi. Ka padariau netaip? Gal padesit sutaisyti?
 <img width="1800" alt="Screenshot 2024-07-03 at 19 05 02" src="https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167983945/d2a8815d-5e74-4711-8066-26646d779356">
 
