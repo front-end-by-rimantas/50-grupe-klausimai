@@ -1,5 +1,16 @@
 # Atsakyti klausimai
 
+# Turiu klausimėlių seriją :D :
+
+Kodėl atnaujinus "paspaudus DONE" įrašas pakeičia spalvą pagal klasę, tačiau spalva pranyksta, kai perkrauname puslapį? Čia bus dėl to, kad perkrovus nėra nuspaudžiamas mygtukas ir klasė pradingsta?
+Taip pat kaip pasitaisyti, kad prie atliktos užduoties prirašytų tekstą: atlikta? Kur klaida, kad neveikia parašytas kodas? :
+
+```js
+updateInputDOM.textContent = updateInputDOM.textContent[i] + '-Atlikta';
+```
+
+https://giedrekite.github.io/domas/
+
 # Gal galite padėti su klaidos ištaisymu? Bandžiau eilute perkopijuoti iš kito failo - nesuveikė; ištryniau visą failą ir naujai sukūriau - vis tiek ta pati klaida. Klaidą meta tik šiame .html faile.
 
 ![image](https://github.com/front-end-by-rimantas/50-grupe-klausimai/assets/167984905/f24b96c4-a725-4d50-aad7-368b1484c73b)
