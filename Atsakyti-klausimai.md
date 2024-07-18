@@ -1,5 +1,9 @@
 # Atsakyti klausimai
 
+## Ar naudojant localStorage.clear() metodą galima įvesti į skliaustelius tam tikrus parametrus, pvz key name kokią atmintį norime ištrinti?
+
+## Ar tesinga būtų vadinti mūsų kursą Full-stack? Su intencija pasipildyti LinkedIn profilį.
+
 # Turiu klausimėlių seriją :D :
 
 Kodėl atnaujinus "paspaudus DONE" įrašas pakeičia spalvą pagal klasę, tačiau spalva pranyksta, kai perkrauname puslapį? Čia bus dėl to, kad perkrovus nėra nuspaudžiamas mygtukas ir klasė pradingsta?
