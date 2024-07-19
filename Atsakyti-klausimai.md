@@ -1,5 +1,7 @@
 # Atsakyti klausimai
 
+## Pas jus kode klaida, turetu buti pavadinimas, o ne pavadinmas, i raides truksta :D ![pavadinimas](https://github.com/user-attachments/assets/45603091-bcf6-4f7c-ae5b-e501b5450cdf)
+
 ## Ar naudojant localStorage.clear() metodą galima įvesti į skliaustelius tam tikrus parametrus, pvz key name kokią atmintį norime ištrinti?
 
 ## Ar tesinga būtų vadinti mūsų kursą Full-stack? Su intencija pasipildyti LinkedIn profilį.
