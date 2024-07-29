@@ -1,5 +1,11 @@
 # Atsakyti klausimai
 
+## Gal galit parodyti tokio uzdavinio sprendimo buda?
+
+[https://www.codewars.com/kata/56e6a330715e7221d9000a3b](https://www.codewars.com/kata/56e6a330715e7221d9000a3b)
+
+## Kodėl man parašius komentarą po jūsų youtube įrašu jis neišsisaugo?? parefreshinus komentaras dingsta :(
+
 ## Kas yra private, protected ir public klasių modifikatoriai?
 
 ## Ar plačiai yra naudojamos klasės internetinių puslapių kūrime?
