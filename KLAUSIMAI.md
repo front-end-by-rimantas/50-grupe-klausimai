@@ -1,0 +1,1 @@
+## Turiu klausimą dėl GitHub Pages. Paviešinau react projektą, bet atidarius nuorodą atvaizduoja tik tuščią baltą lapą. VSCode localhost'e naršyklėje viskas yra atvaizduojama, veikia. Galbūt galite patarti kur galėtų būti problema?
