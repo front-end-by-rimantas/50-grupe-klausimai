@@ -1,1 +1,4 @@
 ## Turiu klausimą dėl GitHub Pages. Paviešinau react projektą, bet atidarius nuorodą atvaizduoja tik tuščią baltą lapą. VSCode localhost'e naršyklėje viskas yra atvaizduojama, veikia. Galbūt galite patarti kur galėtų būti problema?
+## <img width="1800" alt="Screenshot 2024-08-13 at 13 33 24" src="https://github.com/user-attachments/assets/43c56f75-8492-487d-95b5-58b0c6038be2"> Niekaip negaliu suprasti kodel gaunu tokia klaida nemoku jos sutvarkyti.Ar galetumet uzvesti ant kelio ar padeti sutvarkyti?
+## Jeigu ištryniau main.jsx ir ji vel išnaujo sukuriau gaunu tokia klaida nors failas ir yra sukurtas kaip galima sutvarkyti sia problema?
+<img width="363" alt="Screenshot 2024-08-13 at 13 37 38" src="https://github.com/user-attachments/assets/6fdb3b4a-041a-4ab7-a696-8dbbfd5b29b1">
