@@ -1,5 +1,9 @@
 # Atsakyti klausimai
 
+## Niekaip nesuprantu kame beda tokio ERRORO kartais gaunu ji atidares savo projekta per githuba.Nieko nepakeičiu ir jis pats susitvarko
+
+<img width="521" alt="Screenshot 2024-08-19 at 10 45 24" src="https://github.com/user-attachments/assets/f7ddc393-a197-480f-9513-48aef5eb5143">
+
 ## Turiu klausimą dėl GitHub Pages. Paviešinau react projektą, bet atidarius nuorodą atvaizduoja tik tuščią baltą lapą. VSCode localhost'e naršyklėje viskas yra atvaizduojama, veikia. Galbūt galite patarti kur galėtų būti problema?
 
 ## <img width="1800" alt="Screenshot 2024-08-13 at 13 33 24" src="https://github.com/user-attachments/assets/43c56f75-8492-487d-95b5-58b0c6038be2"> Niekaip negaliu suprasti kodel gaunu tokia klaida nemoku jos sutvarkyti.Ar galetumet uzvesti ant kelio ar padeti sutvarkyti?
