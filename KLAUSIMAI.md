@@ -5,10 +5,9 @@
 ## https://github.com/IevaLiepa/final
 
 
-## Ar gali pyktis programos tarpusavyje? Nes Nebeatvaizduoja puslapių, nors informaciją siunčia... 
 
 
-## Kodėl nebeveikia Mysql? Nebesuprantu, ir googlinau ir perinstaliavau ir nieko... 
+## Kodėl nebeveikia Mysql? Nebesuprantu, ir googlinau ir perinstaliavau ir nieko... Nieko nedarius, o išjungus ir pabandžius kitą dieną, veikė, koks nuostabus susitvarkymas jo pačio :D
 1:10:08 AM  [main] 	Initializing Control Panel
 1:10:08 AM  [main] 	Windows Version:  Enterprise  64-bit
 1:10:08 AM  [main] 	XAMPP Version: 8.2.12
